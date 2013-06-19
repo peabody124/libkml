@@ -29,7 +29,6 @@
 #include "boost/scoped_ptr.hpp"
 #include <stdlib.h>
 
-// TODO: fix this for real.
 #ifdef _WIN32
 static int is_leap(unsigned y) {
   y += 1900;
