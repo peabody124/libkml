@@ -1,0 +1,12 @@
+# Exclude temporary and system files
+.DS_Store
+
+Makefile.in
+aclocal.m4
+autom4te.cache/
+build/
+config/ar-lib
+config/
+config.h.in
+configure
+m4/
